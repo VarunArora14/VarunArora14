@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate flutter developer with problem solving skills.</h3>
 
 
-- 🔭 I’m currently working on **building flutter projects and practicing DSA**
+- 🔭 I’m currently working on **python projects, DSA, Kubernetes and AWS services**
 
-- 🌱 I’m currently learning **Flutter, dart, C++, Javascript**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **varunarora1408@gmail.com**
 
