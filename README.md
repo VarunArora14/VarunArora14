@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Varun Arora</h1>
-<h3 align="center">A passionate flutter developer with problem solving skills.</h3>
+<h3 align="center">A passionate engineer who loves to learn new stuff and solve interesting problems.</h3>
 
 
-- 🔭 I’m currently working on **python projects, DSA, Kubernetes and AWS services**
+- 🔭 I’m currently working on **GenAI, LLMs, Data science, data engineering and AWS**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Applied AI and applications of generative AI**
 
 - 📫 How to reach me **varunarora1408@gmail.com**
 
