@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h3 align="center">Building Apps with Generative AI tools and LLMs</h3>
 
 
-- 🔭 I’m currently working on **GenAI, data engineering, microservices and AWS**
+- 🔭 I’m currently working on **Django, python, docker, k8s, microservices and AWS**
 
-- 🌱 I’m currently learning **Applied AI and applications of generative AI**
+- 🌱 I’m currently learning **Scalable and Distributed backend systems design and working**
 
 - - 💬 Ask me about **Kubernetes, AWS, Python, SQL and System Design**
 
