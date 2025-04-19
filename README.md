@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h3 align="center">Building Apps with Generative AI tools and LLMs</h3>
 
 
-- 🔭 I’m currently working on **Django, python, docker, k8s, microservices and AWS**
+- 🔭 I’m currently working on **Java Springboot, AWS, Python, Docker, K8s, Microservices and LLMs**
 
-- 🌱 I’m currently learning **Scalable and Distributed backend systems design and working**
+- 🌱 I’m currently learning **Scalable and Distributed backend systems with Java and Spring**
 
-- - 💬 Ask me about **Kubernetes, AWS, Python, SQL and System Design**
+- - 💬 Ask me about **Kubernetes, AWS, Python, AI Agents, LLMs and System Design**
 
 - 📫 How to reach me **varunarora1408@gmail.com**
 
