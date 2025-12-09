@@ -10,7 +10,7 @@
 
 **Technical Skills**
 
-- Python, TypeScript, AWS, OpenSearch, ReactJS, GIT, Docker, Jenkins, CI/CD, Kubernetes, PostgreSQL, Kafka, MongoDB, Swagger
+- Python, AWS, SQL, Spark, Hadoop, Hive, OpenSearch, GIT, Docker, Jenkins, CI/CD, Kubernetes, PostgreSQL, Kafka, MongoDB
 - OOPs, Distributed Systems, Microservices, DSA, System Design
 
 **Soft Skills**
@@ -25,12 +25,17 @@
 **Infosys**, Noida, India  
 *Feb 2024 - Present*
 
-- Created **notification microservice** using Node.js and TypeScript on AWS, integrating Twilio SendGrid APIs to handle **4k+** daily email requests with 99.95% SLA monitored via CloudWatch.
-- Implemented **secure payment gateway integrations** with **Google Pay** and **Razorpay** APIs, implementing HMAC signature validation and AWS Parameter Store for secrets management enabling automated transaction processing and refund workflows for marketplace vendors
-- Developed event driven applications using SQS messaging, dead letter queues and retry mechanisms that deploy via GitHub Actions CI/CD pipelines to AWS Lambda using **Serverless** framework.
-- Built backend of a **GenAI retrieval system** for The Sustainability Atlas – a collaboration between Infosys and The Economist Group leveraging **AWS Bedrock** for LLMs and **RAG** (OpenSearch + LangChain), scaling to **10k+ daily requests**. Live: https://impact.economist.com/sustainability-atlas/
-- Engineered a **35% reduction in P95 latency** and achieved **$20k+** in annual cost savings by optimizing OpenSearch cluster performance and parallelizing AI workflows.
-- **Tech Stack:** REST API, Python, TypeScript, NodeJS, AWS, Docker, Serverless, OpenSearch, GitHub Actions
+- Designed and automated a cost-efficient, high-accuracy attribution ETL pipeline using **Hadoop, Spark, SQL, EMR** and
+**Airflow**, resulting in a **70% cost reduction**.
+- Developed and scheduled end-to-end Spark workflows with **Airflow DAGs**, enabling reliable and scalable data
+processing.
+- Enhanced data pipeline performance by **60%** through query optimization and tuning in **Spark SQL**.
+- **Engineered data pipelines and AWS infrastructure** for a GenAI retrieval system for The Economist Group using
+**SageMaker, OpenSearch, S3, IAM, VPC**, scaled to handle 10k+ daily requests Press Release, Live Link .
+- Scaled ETL pipelines to support **2B+ records/hour** ingestion, cutting latency by **35%** through **adaptive query
+execution** and **strategic caching/persisting of RDDs**.
+- Automated infrastructure deployment using **AWS CDK** and **GitHub Actions**, achieving over **90% deployment
+automation**.
 
 ### **Software Engineer**
 **Biz2Credit**, Noida, India  
