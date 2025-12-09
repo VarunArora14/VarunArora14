@@ -31,7 +31,7 @@
 processing.
 - Enhanced data pipeline performance by **60%** through query optimization and tuning in **Spark SQL**.
 - **Engineered data pipelines and AWS infrastructure** for a GenAI retrieval system for The Economist Group using
-**SageMaker, OpenSearch, S3, IAM, VPC**, scaled to handle 10k+ daily requests Press Release, Live Link .
+**SageMaker, OpenSearch, S3, IAM, VPC**, scaled to handle 10k+ daily requests [Press Release](https://www.infosys.com/newsroom/press-releases/2025/launch-sustainability-atlas.html), [Live Link](https://impact.economist.com/sustainability-atlas/) .
 - Scaled ETL pipelines to support **2B+ records/hour** ingestion, cutting latency by **35%** through **adaptive query
 execution** and **strategic caching/persisting of RDDs**.
 - Automated infrastructure deployment using **AWS CDK** and **GitHub Actions**, achieving over **90% deployment
