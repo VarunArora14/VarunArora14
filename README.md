@@ -41,10 +41,19 @@ automation**.
 **Biz2Credit**, Noida, India  
 *Mar 2023 - Feb 2024*
 
-- Built the backend of a cloud monitoring system (Flask, MongoDB, AWS Boto3 SDK) that tracked cloud services like EC2, RDS, EKS, Lambda, S3, Route53 etc. across **25+ AWS accounts** and helped save **$30k+/year** in cloud resource costs.
-- Developed scalable data extraction and processing pipelines using Python client library for Kubernetes to collect metadata from **20+ Kubernetes clusters**, designing ETL workflows that transformed raw cluster data into actionable insights, eliminating manual processes and reducing troubleshooting time by **50%**
-- **Debugged cross service Redis DB write failures** caused by silent master node downtime, implementing retry logic with exponential backoff for database connections and monitoring alerts for master DB health, **reducing incident resolution time by 70%**.
-- **Tech Stack:** Python, AWS, Flask, Kubernetes, Docker, Jenkins, MongoDB, Redis, MySQL, Git
+- Built a **centralized cloud monitoring system** for **25+ AWS accounts**, enabling DevOps team to quickly identify idle
+or over provisioned resources, resulting in **$30k+ annual cost savings**.
+- **Developed scalable data extraction and processing pipelines** to collect metadata from **20+ Kubernetes clusters**,
+designing ETL workflows that transformed raw cluster data into actionable insights, **eliminating manual processes**
+and **reducing troubleshooting time by 50%**.
+- Built CI/CD pipelines using Jenkins and Docker with deployment on Kubernetes, cutting deployment times by 40% and
+increasing release frequency from bi-weekly to weekly, boosting developer velocity and developer productivity.
+- **Debugged cross service Redis DB write failures** caused by silent master node downtime, implementing retry logic
+with exponential backoff for database connections and improving master node health alerts , **reducing incident
+resolution time by 70%**.
+- Implemented **RBAC(Role Based Access Control)** for our Kubernetes clusters improving security measures by 15%.
+
+
 
 ---
 
@@ -58,7 +67,7 @@ automation**.
 
 ## Achievements
 
-- Received **2 Infosys RISE Insta Awards** for resolving critical issues during UAT phases and driving project to completion via proper communication and cross teams collaboration.
+- Received a Infosys **STG Unit Rise Award** in August 2025 and **2 Infosys RISE Insta Awards** in December 2024 and March 2025 for resolving critical issues during UAT phases and driving project to completion via proper communication and cross teams collaboration.
 - Awarded Biz2Credit **Functional Award** for December 2023 for for developing and deploying cloud monitoring system to production and debugging cross service Redis write failure.
 - Ranked in the **Top 5%** on LeetCode with a maximum rating of **1850+**.
 
