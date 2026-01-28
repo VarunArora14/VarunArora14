@@ -25,7 +25,7 @@
 **Infosys**, Noida, India  
 *Feb 2024 - Present*
 
-- Designed and automated a cost-efficient, high-accuracy attribution ETL pipeline using **Hadoop, Spark, SQL, EMR** and
+- Designed and automated a cost-efficient, high-accuracy attribution ETL pipeline using **Databricks, Spark, SQL, Hadoop** and
 **Airflow**, resulting in a **70% cost reduction**.
 - Developed and scheduled end-to-end Spark workflows with **Airflow DAGs**, enabling reliable and scalable data
 processing.
