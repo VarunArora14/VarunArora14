@@ -10,7 +10,7 @@
 
 **Technical Skills**
 
-- Python, AWS, SQL, Spark, Hadoop, Hive, OpenSearch, GIT, Docker, Jenkins, CI/CD, Kubernetes, PostgreSQL, Kafka, MongoDB
+- Python, AWS, SQL, Spark, Databricks, Snowflake, DBT, OpenSearch, PostgreSQ, Docker, Jenkins, CI/CD, Kubernetes
 - OOPs, Distributed Systems, Microservices, DSA, System Design
 
 **Soft Skills**
