@@ -15,7 +15,7 @@
 
 **What am I doing right now?**
 
-- Building data driven applications powered by AI at Enterprise level
+- Building data driven systems powered by AI at Enterprise level
 - Exploring Open Source in data and AI projects (OSS prev at https://github.com/antiwork/ **flexile** and **gumroad**)
 
 ---
