@@ -13,9 +13,10 @@
 - Python, AWS, SQL, Spark, Databricks, Snowflake, DBT, OpenSearch, PostgreSQ, Docker, Jenkins, CI/CD, Kubernetes
 - OOPs, Distributed Systems, Microservices, DSA, System Design
 
-**Soft Skills**
+**What am I doing right now?**
 
-- Leadership, Teamwork, Mentorship, Project Management
+- Building data driven applications powered by AI at Enterprise level
+- Exploring Open Source in data and AI projects (OSS prev at https://github.com/antiwork/ **flexile** and **gumroad**)
 
 ---
 
